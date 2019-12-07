@@ -8,7 +8,7 @@ using namespace std;
 class RdrStdOut {
 private:
         streambuf* prtStrbuf;
-		streambuf* ptrStrBackup;
+	streambuf* ptrStrBackup;
    
 public:
         RdrStdOut(ofstream& file) : prtStrbuf(file.rdbuf()), ptrStrBackup(cout.rdbuf())
