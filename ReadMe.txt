@@ -10,4 +10,4 @@ make up your output_redirect application.
 
 output_redirect.cpp
     This is the main project file for VC++ projects generated using an Application Wizard.
-    you can open a new c++ cosole application in VC++ and then replace the main cpp file of your project with the output_redirect.cpp content.
+    you can open a new c++ console application in VC++ and then replace the main cpp file of your project with the output_redirect.cpp content.
